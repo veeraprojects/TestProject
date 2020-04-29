@@ -1,0 +1,11 @@
+ Volume in drive C is System
+ Volume Serial Number is 2487-D060
+
+ Directory of C:\Users\vchodaga\git\TestProject
+
+04/29/2020  04:28 PM    <DIR>          .
+04/29/2020  04:28 PM    <DIR>          ..
+04/29/2020  04:28 PM                 0 test.txt
+04/29/2020  02:51 PM    <DIR>          TestProject
+               1 File(s)              0 bytes
+               3 Dir(s)  63,524,843,520 bytes free
